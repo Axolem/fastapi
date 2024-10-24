@@ -1,0 +1,2 @@
+0 unhealthy
+1 healthy

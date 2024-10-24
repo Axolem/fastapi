@@ -1,2 +1,7 @@
 fastapi==0.100.0
 hypercorn==0.14.4
+fastapi
+uvicorn
+tensorflow==2.16.1
+pillow
+keras>=3.0.0
